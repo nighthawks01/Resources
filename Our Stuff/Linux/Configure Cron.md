@@ -87,8 +87,7 @@ Configure cron
 
 				[user@host]$ chmod og-rwx /etc/cron.allow
 				[user@host]$ chmod og-rwx /etc/at.allow
-
-4. 
+ 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTcwNjg5MTIwOSwtMjExNzI3NTk3Ml19
 -->
