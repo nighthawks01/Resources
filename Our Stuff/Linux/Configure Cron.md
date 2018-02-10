@@ -12,7 +12,7 @@ Configure cron
 	
 	- Enable the `crond` service by running, as root ...
 		
-		[user@host]$ systemctl enable crond
+			[user@host]$ systemctl enable crond
 
 2. **Ensure permissions on /etc/crontab are configured - Level 1**
 
@@ -60,7 +60,7 @@ Configure cron
 
 				[user@host]$ rm /etc/cron.deny
 				
-		And
+			And
 		
 				[user@host]$ rm /etc/at.deny
 
